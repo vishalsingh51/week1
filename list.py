@@ -1,0 +1,9 @@
+l=[10,20,30,68,732]
+print(l)
+print(type(l))
+print(l[0])
+print(l[1])
+print(l[2])
+print(l[4])
+print(type(l[0]))
+print(type(l[1]))
